@@ -24,7 +24,7 @@
   </a>
 </p>
 
-Previously in school for video production & digital film but I've always loved technology and learning technical skills. I never thought i could turn my love for computer science, video gaming, film production and crypto into one career where i can fully express myself while getting to put my skills to creating application that make the world a little bit easier to live in.
+Previously in school for video production & digital film but I've always loved technology and learning technical skills. I never thought i could turn my love for computer science, video gaming, film production and crypto into one career where i can fully express myself while getting to put my skills to good use creating applications that make the world a little bit easier to live in.
 
 See [my website](https://franklinwconoverii.com) for more information.
 
