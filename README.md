@@ -1,4 +1,5 @@
-![fwcIIBanner](https://user-images.githubusercontent.com/102604674/171725881-5539aef9-1997-40ce-952e-1b6fb303ff13.gif)
+![fwcIIBanner](https://user-images.githubusercontent.com/102604674/171726612-4ac4b4d5-c329-41e6-a95d-e287af6783a9.svg)
+
 
 
 - 👋 Hi, I’m Franklin Willis Conover II
