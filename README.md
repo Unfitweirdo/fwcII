@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/102604674/170044242-ab4a07c9-2174-4bf4-82f8-fc433f9d7e2e.gif" width="100%">
+<img src="![FwcII profile banner](https://user-images.githubusercontent.com/102604674/171725547-33dcb4fb-7a58-4279-951e-c0b3379ca10e.gif)
+" width="100%">
 
 - 👋 Hi, I’m Franklin Willis Conover II
 - 👀 I’m interested in ... Full stack engineering and Blockchain
