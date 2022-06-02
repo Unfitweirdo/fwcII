@@ -1,4 +1,4 @@
-![fwcIIBanner](https://user-images.githubusercontent.com/102604674/171727799-7d94175f-e382-47b8-a8a6-6ead21be1d3a.gif)
+![FwcIIBanner (1)](https://user-images.githubusercontent.com/102604674/171742395-6e8c93ff-c0b2-4472-8d48-d35dcabad860.gif)
 
 
 
