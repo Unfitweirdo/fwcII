@@ -1,5 +1,5 @@
-<img src="![Blue and Green Cartoon Pixel Gaming Channel Linkedin Banner (2)](https://user-images.githubusercontent.com/102604674/171725709-5e8fe330-d336-48e6-9fa5-07f07a9e6f92.gif)
-">
+![fwcIIBanner](https://user-images.githubusercontent.com/102604674/171725881-5539aef9-1997-40ce-952e-1b6fb303ff13.gif)
+
 
 - 👋 Hi, I’m Franklin Willis Conover II
 - 👀 I’m interested in ... Full stack engineering and Blockchain
