@@ -9,7 +9,7 @@
 - 👋 Hi, I’m Franklin Willis Conover II
 - 👀 I’m interested in ... Full stack engineering and Blockchain
 - 🌱 I’m currently learning ... full stack software development 
-- 💞️ I’m looking to collaborate on ... Html / Css / Js / node.js / mongoDB / solidity
+- 💞️ I’m looking to collaborate on ... Html / Css / Js / node.js / mongoDB / React / solidity
 - 📫 How to reach me ... Franklin.conoverII@outlook.com
 
 <p align="center">
